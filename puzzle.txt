@@ -1,0 +1,53 @@
+Word Search Puzzle
+
+a r f t g e l a u b r o n e t s r o d s 
+i m o i e k e a a r h r u t r n r u i f 
+s a c r o u h r p e e t i o g s a p r a 
+e e c i w a r t n e s r o m m m c i t a 
+t h s i t t i n s e s p r g l i r e f p 
+y a g o v d b u s u s a n s i r p m n s 
+e o a i r o e e a r a o p d n n m s z o 
+i t s d a a a i r a s o d e r o e p y t 
+i o m u e n n d s h i m c s n n t l p s 
+m a a g u h g i i e n o l o a i y t d i 
+o a r u s e s u d h g k a e r r n u r o 
+e g s e e u a s r e r l e c a g c r r r 
+p i a d r o h r u a a a y a n a r e e i 
+o i m a n t h o o k c e i u r r s w a u 
+c s g d o h s m h t e o e p c s a a a s 
+p e u e g m m s r o y i t e e l n c n z 
+l n c o r s g t m n a u y d g c h l o r 
+e l t y a c t a l l i l y s t g d t y l 
+m e u i l u t a e y n n o c p l a o u i 
+r e d a e a i n u d n m l b a i g e l n 
+
+agrin
+arose
+conny
+orcas
+ranid
+steno
+lakhs
+goter
+ruses
+talli
+susans
+sansi
+sarsi
+ernes
+naifs
+resue
+morse
+roist
+chlor
+sacro
+sasin
+spoor
+sepal
+dinar
+grace
+roses
+fiant
+largo
+argon
+redos
