@@ -1,53 +1,53 @@
 Word Search Puzzle
 
-a r f t g e l a u b r o n e t s r o d s 
-i m o i e k e a a r h r u t r n r u i f 
-s a c r o u h r p e e t i o g s a p r a 
-e e c i w a r t n e s r o m m m c i t a 
-t h s i t t i n s e s p r g l i r e f p 
-y a g o v d b u s u s a n s i r p m n s 
-e o a i r o e e a r a o p d n n m s z o 
-i t s d a a a i r a s o d e r o e p y t 
-i o m u e n n d s h i m c s n n t l p s 
-m a a g u h g i i e n o l o a i y t d i 
-o a r u s e s u d h g k a e r r n u r o 
-e g s e e u a s r e r l e c a g c r r r 
-p i a d r o h r u a a a y a n a r e e i 
-o i m a n t h o o k c e i u r r s w a u 
-c s g d o h s m h t e o e p c s a a a s 
-p e u e g m m s r o y i t e e l n c n z 
-l n c o r s g t m n a u y d g c h l o r 
-e l t y a c t a l l i l y s t g d t y l 
-m e u i l u t a e y n n o c p l a o u i 
-r e d a e a i n u d n m l b a i g e l n 
+i n l d y w a e u b u c b r u s g e k i 
+t e n t t r i d o g a a b a e t p t s e 
+h i t g o t h e e a s l l n t c r s g p 
+i n u i n h z r e g e e t k o i e r d e 
+o n o e u e n m i p r g l i r t n n e i 
+l e i s u c o s n t i p e e t o n n l a 
+n i o a a u u o r c s u r l k e a b d s 
+u i a y r e e s m l u a t o o e w i r p 
+n t s w e i i a i e a a s e n a a i c t 
+u g e u d i r p i l d a u a i t s r t t 
+a e s u s l n a i o s h i r u r g a s i 
+s i s s d r m e t o r p s t d e o s n i 
+o y o e t s g t e p a p e a s o s e n e 
+o i t p p s i t e s e p h d h d e r i l 
+a h r g a n l u e l e n a u e i c e s i 
+i c e n d c f u c b r c a i v c r t i l 
+d i s t e h a i h k u d c v a s e t m s 
+m a t e t c t m e p v e p r e f s e l c 
+m l i h i u s d i u l i i t m n r t i y 
+l t n t l f g a l b e l h t n s n l d a 
 
-agrin
-arose
-conny
-orcas
-ranid
-steno
-lakhs
-goter
-ruses
-talli
-susans
-sansi
-sarsi
-ernes
-naifs
-resue
-morse
-roist
-chlor
-sacro
-sasin
-spoor
-sepal
-dinar
-grace
-roses
-fiant
-largo
-argon
-redos
+sites
+anele
+tosses
+teresa
+tewit
+wairs
+alert
+sawan
+neese
+piute
+astir
+wanner
+sprot
+cusie
+trest
+seenie
+sheva
+prote
+galbe
+teres
+secre
+tetter
+apian
+thiol
+loasa
+raser
+laich
+nisus
+sires
+deice

@@ -231,9 +231,12 @@ def check_word(w):
 
 def search_string(s):
     output = []
-    for word in word_list:
-        if word in s:
-            output.append(word)
+    min_length = 5
+    for l in range(min_length, len(s)+1):
+        for i in range(0, len(s)-l+1):
+            word = s[i:i+l]
+            if check_word(word) and word in word_list:
+                output.append(word)
     return output
 
 
@@ -272,7 +275,7 @@ def find_words(b):
 
 
 while True:
-    letters = choices(alphabet, weights=weights, k=length * height)
+    letters = choices(alphabet, weights=weights,k=length * height)
     board = {(i, j): Tile(i, j, letters[j * height + i]) for i in range(height) for j in range(length)}
     puzzle_word_list = list(set([word for l in find_words(board) for word in l]))
     if len(puzzle_word_list) >= word_count:
